@@ -1,0 +1,42 @@
+Breed,Food,Climate,Milk_Production (L/day),Diseases,Life_Span (years),Region
+Alambadi,Grass,Warm dry,6-8,Foot and Mouth Disease,15-18,Tamil Nadu
+Amritmahal,Grass,Semi-arid,2-3,Tick fever,12-15,Karnataka
+Ayrshire,High protein fodder,Temperate,20-25,Mastitis,15-20,Scotland (imported to India)
+Banni,Grass,Arid,8-10,Parasites,14-18,Gujarat
+Bargur,Forest grazing,Hilly dry,6-8,Foot and Mouth Disease,12-15,Tamil Nadu
+Bhadawari,Fodder,Semi-arid,6-8,Foot and Mouth Disease,12-15,Uttar Pradesh
+Brown_Swiss,High protein concentrate,Cold,18-22,Mastitis,15-20,Switzerland (imported to India)
+Dangi,Grass,Heavy rain,2-4,Trypanosomiasis,12-15,Maharashtra
+Deoni,Fodder + grass,Hot dry,8-10,FMD,12-15,Maharashtra/Karnataka
+Gir,Fodder + grains,Semi-arid,10-15,Mastitis,12-15,Gujarat
+Guernsey,Fodder + grains,Temperate,20-22,Mastitis,14-16,Imported
+Hallikar,Fodder,Semi-arid,4-6,Anthrax,12-15,Karnataka
+Hariana,Grass,Hot humid,8-10,Mastitis,12-14,Haryana
+Holstein_Friesian,High concentrate,Cold,25-30,Mastitis,15-18,Imported
+Jaffrabadi,Fodder + silage,Semi-arid,8-10,Foot and Mouth Disease,12-15,Gujarat
+Jersey,High protein fodder,Temperate humid,18-22,Mastitis,15-18,Imported
+Kangayam,Grass,Semi-arid,4-6,Anthrax,12-15,Tamil Nadu
+Kankrej,Fodder,Semi-arid,10-12,Mastitis,14-16,Gujarat
+Kasargod,Grass,Tropical humid,4-6,Parasites,10-12,Kerala
+Kenkatha,Grass,Hot dry,2-4,FMD,10-12,Uttar Pradesh
+Kherigarh,Grass,Hot humid,4-6,Foot and Mouth Disease,10-12,Uttar Pradesh
+Khillari,Grass,Hot dry,6-8,Mastitis,12-15,Maharashtra
+Krishna_Valley,Fodder + grains,Semi-arid,8-10,FMD,12-15,Karnataka
+Malnad_Gidda,Forest grazing,Humid hilly,2-4,Parasites,10-12,Karnataka
+Mehsana,Fodder,Semi-arid,6-8,Mastitis,12-15,Gujarat
+Murrah,High protein fodder,Hot humid,20-25,Mastitis,15-18,Haryana
+Nagori,Grass,Arid,4-6,Trypanosomiasis,12-15,Rajasthan
+Nagpuri,Grass,Hot dry,6-8,Foot and Mouth Disease,12-15,Maharashtra
+Nili_Ravi,Fodder + silage,Semi-arid,20-25,Mastitis,15-18,Punjab
+Nimari,Grass,Hot dry,6-8,Anthrax,12-15,Madhya Pradesh
+Ongole,Fodder + grass,Fair dry,4-8,Anthrax,12-15,Andhra Pradesh
+Pulikulam,Forest grazing,Semi-arid,2-4,Parasites,10-12,Tamil Nadu
+Rathi,Fodder + grains,Hot dry,8-10,Mastitis,12-15,Rajasthan
+Red_Dane,Fodder + silage,Temperate,15-18,Mastitis,15-18,Imported
+Red_Sindhi,Fodder + grains,Hot humid,12-15,Mastitis,12-15,Andhra Pradesh
+Sahiwal,Fodder + grass,Semi-arid,12-15,Mastitis,12-15,Punjab
+Surti,Fodder + silage,Semi-arid,6-8,FMD,12-15,Gujarat
+Tharparkar,Grass,Hot arid,8-10,Foot and Mouth Disease,12-15,Rajasthan
+Toda,Grass,Cold humid,4-6,Parasites,12-15,Tamil Nadu
+Umblachery,Grass,Semi-arid,4-6,FMD,12-15,Tamil Nadu
+Vechur,Grass,Tropical humid,2-4,Parasites,8-10,Kerala
